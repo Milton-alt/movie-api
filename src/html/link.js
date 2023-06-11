@@ -23,7 +23,7 @@ const link = `
     </style>
 
     <main class="main">
-        <a class="a" href="#" title="Go to api"><strong>Welcome to the API movies🎥🎬</strong></a>
+        <a class="https://movies-6u2k.onrender.com/api/v1/movies" href="#" title="Go to api"><strong>Welcome to the API movies🎥🎬</strong></a>
     </main>
 `;
 
